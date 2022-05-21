@@ -1,0 +1,199 @@
+session_id,date,available_capacity,min_age_limit,allow_all_age,vaccine,available_capacity_dose1,available_capacity_dose2,max_age_limit,address,block,center_id,district
+b500a57a-2439-4c65-82e6-7b7b15f9e38d,03-09-2021,383,45,False,COVISHIELD,147,236,,M 4 GREATER KAILASH 1 NEAR M BLOCK MARKET,Not Applicable,615507,South Delhi
+4e3c0b15-4b48-4796-a0e4-ff0ccfd1ad9a,03-09-2021,294,18,False,COVISHIELD,140,154,44.0,M 4 GREATER KAILASH 1 NEAR M BLOCK MARKET,Not Applicable,615507,South Delhi
+bb3a4dd1-dbd8-4d86-9d0b-5b60243a3d66,04-09-2021,385,45,False,COVISHIELD,148,237,,M 4 GREATER KAILASH 1 NEAR M BLOCK MARKET,Not Applicable,615507,South Delhi
+4ddeeb4a-7ad5-461a-918f-e42c8f92e642,04-09-2021,290,18,False,COVISHIELD,140,150,44.0,M 4 GREATER KAILASH 1 NEAR M BLOCK MARKET,Not Applicable,615507,South Delhi
+925dbbf5-5514-4ae3-961b-d253e281bbf5,05-09-2021,393,45,False,COVISHIELD,149,244,,M 4 GREATER KAILASH 1 NEAR M BLOCK MARKET,Not Applicable,615507,South Delhi
+2e20c3e5-fce5-4103-9faf-e166a9cc1a22,05-09-2021,311,18,False,COVISHIELD,143,168,44.0,M 4 GREATER KAILASH 1 NEAR M BLOCK MARKET,Not Applicable,615507,South Delhi
+76e3fed5-e574-4fb1-bc9c-53fbe27954d8,03-09-2021,405,18,True,COVISHIELD,254,151,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+96d4c98d-16fe-47e2-a24c-62d089f2f280,03-09-2021,391,18,True,COVAXIN,262,129,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+f6a0a100-6133-42ab-8260-c4214d15fe5d,04-09-2021,247,18,True,COVISHIELD,172,75,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+240c82b3-e292-4c39-baa9-56c10e6ba13a,04-09-2021,315,18,True,COVAXIN,158,157,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+d208ef11-9b63-4ed0-bd8b-d125c4b61134,05-09-2021,367,18,True,COVAXIN,194,173,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+925109b1-f425-43e9-9492-ff6d3e0d3036,05-09-2021,349,18,True,COVISHIELD,191,158,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+ba7d93ed-b0a5-44ac-98af-872fd6f7312a,06-09-2021,369,18,True,COVISHIELD,197,172,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+2a0581c8-a0df-4ef7-95ca-19bcc3443377,06-09-2021,390,18,True,COVAXIN,195,195,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+7d803887-10dc-49f1-a9c5-212c088b6b93,07-09-2021,395,18,True,COVAXIN,198,197,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+51a6c859-0b49-4c8e-8ffe-924b4e1ea782,07-09-2021,389,18,True,COVISHIELD,198,191,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+fa4c59db-c2e4-4a97-a294-131804c93fee,08-09-2021,391,18,True,COVISHIELD,198,193,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+1ce78e0f-8f95-41bb-9739-0e1532d3d11b,08-09-2021,398,18,True,COVAXIN,200,198,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+707933b6-7ca9-44bd-b4aa-aced90103c1b,09-09-2021,397,18,True,COVAXIN,200,197,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+fe939036-8472-4fdf-bdf3-1680a99639c7,09-09-2021,394,18,True,COVISHIELD,200,194,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+0e9ca7be-82e7-4c78-b522-18786631b931,03-09-2021,50,18,True,COVISHIELD,25,25,,HAUZ RANI MALVIYA NAGAR,Not Applicable,616413,South Delhi
+7221d57b-f949-4dc1-bc3e-9a7900197533,04-09-2021,45,18,True,COVISHIELD,23,22,,HAUZ RANI MALVIYA NAGAR,Not Applicable,616413,South Delhi
+c18f75d6-2b3d-4003-a20b-4bd6e6aab2e0,06-09-2021,37,18,True,COVISHIELD,19,18,,HAUZ RANI MALVIYA NAGAR,Not Applicable,616413,South Delhi
+7eaba3d2-fc14-4c5d-845b-1ef41904b601,03-09-2021,114,18,True,COVISHIELD,67,47,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+8699bf93-b15b-4139-8535-678d1f0f4898,04-09-2021,98,18,True,COVISHIELD,58,40,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+572d04b0-a43c-41f5-825f-1ce9c8821f1a,06-09-2021,134,18,True,COVISHIELD,71,63,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+55e250fc-a16e-4e9d-a633-30ee81487632,07-09-2021,140,18,True,COVISHIELD,74,66,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+80ab0d6a-b02f-47bd-8738-0581210384d6,08-09-2021,144,18,True,COVISHIELD,75,69,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+0214e3f9-a381-43a2-a693-9331fce39b2d,09-09-2021,140,18,True,COVISHIELD,74,66,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+05eec159-8452-451a-a68d-72579f756e16,03-09-2021,168,18,True,COVISHIELD,92,76,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+8bdde45a-11b0-4157-9ecc-5398532335be,03-09-2021,116,18,True,COVAXIN,59,57,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+8823161e-2990-4f56-bd58-410bcab6ebe5,04-09-2021,95,18,True,COVAXIN,52,43,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+e74d07d9-74fd-4f3f-978d-3c4d387c654e,04-09-2021,120,18,True,COVISHIELD,92,28,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+ca7bc765-f3ec-4da7-9991-16752c15a38d,06-09-2021,148,18,True,COVISHIELD,93,55,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+7b8d0a01-718c-4bc4-afd8-0fb6fbdda17d,06-09-2021,129,18,True,COVAXIN,69,60,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+0b5fbb0e-bbe1-4873-a37b-03b50abec900,07-09-2021,138,18,True,COVAXIN,68,70,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+9da0885e-f540-4afb-b4b3-17efd80732ed,07-09-2021,187,18,True,COVISHIELD,97,90,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+759f338d-302d-496c-bc53-387d586434d9,08-09-2021,141,18,True,COVAXIN,72,69,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+c48ec28c-8624-4e64-b8e8-0a78aa665d49,08-09-2021,191,18,True,COVISHIELD,99,92,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+c63a3a80-f64c-4e63-8573-42485382253d,09-09-2021,191,18,True,COVISHIELD,99,92,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+837fea45-abe6-4a61-b0cf-4b69b6cf6c6b,09-09-2021,132,18,True,COVAXIN,70,62,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+da77c410-8e65-4dc7-8db4-1e5aa62c2b0c,04-09-2021,0,18,True,COVISHIELD,0,0,,GBSSS NO2 MEHRAULI,Not Applicable,770351,South Delhi
+642b7d41-7d3b-433e-9dfb-6c4caf6625e9,04-09-2021,0,18,True,COVISHIELD,0,0,,GARGI SCHOOL SAFDARJUNG ENCLAVE 110016,Not Applicable,694984,South Delhi
+e4e9b469-ddef-4d37-8195-714fdc69dfc1,04-09-2021,0,18,True,COVISHIELD,0,0,,SARVODAYA COED VIDHALYA MASJID MOTH,Not Applicable,738586,South Delhi
+4559d332-a454-4d7c-85c0-50f3fe62ed9f,04-09-2021,0,18,True,COVISHIELD,0,0,,SDMC Model Boys School Hauz Rani New Delhi,Not Applicable,784819,South Delhi
+7676ff1d-9604-40fe-bf01-35d479c21d7e,04-09-2021,279,18,True,COVISHIELD,119,160,,N 110 Block N Panchsheel Park,Not Applicable,685375,South Delhi
+3176300f-ab03-4feb-81ea-0903c1383ac4,05-09-2021,407,18,True,COVISHIELD,138,269,,N 110 Block N Panchsheel Park,Not Applicable,685375,South Delhi
+45edc410-0554-4139-a2b3-127dec222314,06-09-2021,496,18,True,COVISHIELD,149,347,,N 110 Block N Panchsheel Park,Not Applicable,685375,South Delhi
+57daad74-f121-445b-adc1-a2d197fc1a06,07-09-2021,498,18,True,COVISHIELD,150,348,,N 110 Block N Panchsheel Park,Not Applicable,685375,South Delhi
+6a22203f-e1ab-4eee-b23d-8dce25aef203,08-09-2021,498,18,True,COVISHIELD,150,348,,N 110 Block N Panchsheel Park,Not Applicable,685375,South Delhi
+1210ab71-a8df-4e1f-baaa-ec9389fcf496,09-09-2021,500,18,True,COVISHIELD,150,350,,N 110 Block N Panchsheel Park,Not Applicable,685375,South Delhi
+0c401356-4161-43db-a5e7-73a891b19c1a,04-09-2021,0,18,True,COVISHIELD,0,0,,Rajkiya Varishtha M. Bal Vidyalaya Aya Nagar 110047,Not Applicable,694032,South Delhi
+f998e864-beb2-4283-8571-39ff7d295c21,04-09-2021,0,18,True,COVISHIELD,0,0,,Mcw Dakshinpuri Block 5  Opposite SBI Dakshinpuri New Delhi -62,Not Applicable,8097,South Delhi
+7b046bc3-4c28-44c6-8cf6-06a30079dfd8,04-09-2021,25,18,True,COVISHIELD,0,25,,DAKSHINPURI SEC V,Not Applicable,724432,South Delhi
+c739d45c-d446-4aa4-9042-fe4f3047c994,04-09-2021,0,18,True,COVAXIN,0,0,,Sarvodaya Kanya Vidyalaya Chirag Delhi Swami Nagar,Not Applicable,694023,South Delhi
+127e9347-5e99-48fc-9f91-616ce0efb512,04-09-2021,0,18,True,COVISHIELD,0,0,,SHEIKH SARAI,Not Applicable,779827,South Delhi
+4f19e5c4-ff38-4785-9f18-0903dcf26357,04-09-2021,0,18,True,COVISHIELD,0,0,,PAMPOSH ENCLAVE GREATER KAILASH -1,Not Applicable,738595,South Delhi
+a6b720b4-04e6-4bda-9a5c-a45f6df2a802,04-09-2021,0,18,True,COVISHIELD,0,0,,SDMC Model Boys School Hauz Rani New Delhi,Not Applicable,784823,South Delhi
+917aa484-8544-4afd-8644-c3323d6b62c4,04-09-2021,0,18,True,COVISHIELD,0,0,,Dr.Ambedkar Nagar Sector 5 Dakshinpuri New Delhi Delhi 110062,Not Applicable,702275,South Delhi
+c3507d51-f1b5-4fec-8e25-7b89faae42c7,04-09-2021,334,18,True,COVISHIELD,186,148,,Balharas Le Cure Hospital IGNOU Main Rd Freedom Fighter Colony Block B Neb Sarai Sainik FarmNew Delhi,Not Applicable,837097,South Delhi
+85873f36-43aa-4a1b-90fe-fb25833bebe7,05-09-2021,367,18,True,COVISHIELD,190,177,,Balharas Le Cure Hospital IGNOU Main Rd Freedom Fighter Colony Block B Neb Sarai Sainik FarmNew Delhi,Not Applicable,837097,South Delhi
+519d0655-4686-4a8b-a17e-e42934553b06,06-09-2021,385,18,True,COVISHIELD,195,190,,Balharas Le Cure Hospital IGNOU Main Rd Freedom Fighter Colony Block B Neb Sarai Sainik FarmNew Delhi,Not Applicable,837097,South Delhi
+65b61223-3dcc-4673-a2f5-eed22c340967,07-09-2021,388,18,True,COVISHIELD,195,193,,Balharas Le Cure Hospital IGNOU Main Rd Freedom Fighter Colony Block B Neb Sarai Sainik FarmNew Delhi,Not Applicable,837097,South Delhi
+f8df290f-de9e-4aae-885d-9889381e93b8,08-09-2021,396,18,True,COVISHIELD,200,196,,Balharas Le Cure Hospital IGNOU Main Rd Freedom Fighter Colony Block B Neb Sarai Sainik FarmNew Delhi,Not Applicable,837097,South Delhi
+284d131f-8d24-42b5-a6ad-6120349d2ad8,09-09-2021,387,18,True,COVISHIELD,198,189,,Balharas Le Cure Hospital IGNOU Main Rd Freedom Fighter Colony Block B Neb Sarai Sainik FarmNew Delhi,Not Applicable,837097,South Delhi
+c16e8cee-30f0-4e29-b64f-2fa645af0e4f,04-09-2021,0,18,True,COVISHIELD,0,0,,BACHAN PRASAD SCHOOL DEOLI TIGRI 110080,Not Applicable,694954,South Delhi
+9a2ea40d-9c23-435a-8646-7d70806b445f,04-09-2021,145,18,True,COVISHIELD,85,60,,Press Enclave Marg Phase-2Sheikh Sarai,Not Applicable,560710,South Delhi
+efd7ec62-7370-4cf5-bc40-158e358ff959,05-09-2021,170,18,True,COVISHIELD,89,81,,Press Enclave Marg Phase-2Sheikh Sarai,Not Applicable,560710,South Delhi
+ceccb622-ff3b-4c17-9775-e4307867f87f,06-09-2021,172,18,True,COVISHIELD,95,77,,Press Enclave Marg Phase-2Sheikh Sarai,Not Applicable,560710,South Delhi
+99c241c6-c214-4ff0-a7af-797246255677,07-09-2021,181,18,True,COVISHIELD,92,89,,Press Enclave Marg Phase-2Sheikh Sarai,Not Applicable,560710,South Delhi
+50bb4fe9-c7fb-4e25-a4c4-a3139693b566,08-09-2021,191,18,True,COVISHIELD,98,93,,Press Enclave Marg Phase-2Sheikh Sarai,Not Applicable,560710,South Delhi
+508c6c20-9327-4ee6-ab78-69f83d09fb25,09-09-2021,195,18,True,COVISHIELD,99,96,,Press Enclave Marg Phase-2Sheikh Sarai,Not Applicable,560710,South Delhi
+5467ed9d-87a7-4729-9d9c-53b4ae8dfb27,04-09-2021,19,18,True,COVISHIELD,0,19,,DAKSHINPURI SEC V,Not Applicable,709282,South Delhi
+609c408b-fb83-4e39-9274-78aa86f475f7,04-09-2021,0,18,True,COVISHIELD,0,0,,Govt Girls Sr. Sec. School Chhattarpur 110074,Not Applicable,693928,South Delhi
+40f0ff0a-a181-4c4b-8b78-69388964a599,04-09-2021,0,18,True,COVISHIELD,0,0,,SARVODAYA COED VIDHALYA MASJID MOTH,Not Applicable,738585,South Delhi
+5ed7dba8-06e4-4e41-b08a-b0974314d192,04-09-2021,57,18,True,COVISHIELD,32,25,,Siri Fort Road New Delhi,Not Applicable,614550,South Delhi
+8447e698-cbd1-4604-89f5-1368f2091fef,04-09-2021,0,18,True,COVISHIELD,0,0,,GARGI SCHOOL SAFDARJUNG ENCLAVE 110016,Not Applicable,738569,South Delhi
+52752233-fa7e-4891-b9b9-29195c61bc76,04-09-2021,55,45,False,COVISHIELD,39,16,,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,590180,South Delhi
+abe30889-5220-4025-81cb-d3493dd5ee09,05-09-2021,78,45,False,COVISHIELD,43,35,,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,590180,South Delhi
+f8765d3f-3bf4-4df8-bc3d-d23130a14b19,04-09-2021,0,18,True,COVISHIELD,0,0,,Malviya Nagar New Delhi Delhi 110017,Not Applicable,701558,South Delhi
+0f79e159-b811-437f-ad6a-d8a6652590b2,04-09-2021,23,18,False,COVISHIELD,23,0,44.0,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,614795,South Delhi
+9774103b-18e7-4d6b-83dc-b385dc5dc38e,05-09-2021,77,18,False,COVISHIELD,48,29,44.0,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,614795,South Delhi
+d1957271-e660-43aa-b445-601967836ff3,04-09-2021,0,18,True,COVISHIELD,0,0,,SDMC SCHOOL MAIDAN GARHI,Not Applicable,697814,South Delhi
+4ab1e794-afe4-4fda-8f17-61c60a2ccf31,04-09-2021,0,18,True,COVISHIELD,0,0,,D1 Ilbs Vasant Kunj Marg Delhi,Not Applicable,560772,South Delhi
+20bea2f9-14d3-4e9e-8beb-9206bf23b08e,04-09-2021,0,18,True,COVISHIELD,0,0,,Dr.Ambedkar Nagar Sector 5 Dakshinpuri New Delhi Delhi 110062,Not Applicable,701575,South Delhi
+3ef3e9b7-865b-4c21-bdba-ba982ea836e9,04-09-2021,0,18,True,COVISHIELD,0,0,,SDMC SCHOOL MAIDAN GARHI,Not Applicable,697817,South Delhi
+1421eb92-1d42-4707-b02b-8106688a9afc,04-09-2021,0,18,True,COVISHIELD,0,0,,SARVODAYA COED VIDHALYA MASJID MOTH,Not Applicable,709216,South Delhi
+3ae7a823-1385-4429-b21c-640be00bd938,04-09-2021,0,18,True,COVISHIELD,0,0,,BACHAN PRASAD SCHOOL DEOLI TIGRI 110080,Not Applicable,694968,South Delhi
+338533fa-5552-46c9-a3f0-509e813529c1,04-09-2021,0,18,True,COVISHIELD,0,0,,PAMPOSH ENCLAVE GREATER KAILASH -1,Not Applicable,738597,South Delhi
+bde50967-652e-497d-bcbe-74b96cdb6193,04-09-2021,0,18,True,COVISHIELD,0,0,,D1 Ilbs Vasant Kunj Marg Delhi,Not Applicable,576213,South Delhi
+0d545fdc-4e38-44cc-90b0-c21f19b0d32b,04-09-2021,0,18,True,COVISHIELD,0,0,,SDMC SCHOOL MAIDAN GARHI,Not Applicable,697818,South Delhi
+586c4168-a991-4fb7-87d6-0577b7b6c20e,04-09-2021,37,18,False,COVISHIELD,36,1,44.0,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,614786,South Delhi
+78f8bb0d-5d8d-42b8-b6c7-c062c449524c,05-09-2021,61,18,False,COVISHIELD,41,20,44.0,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,614786,South Delhi
+f560972f-5d8d-467c-85c5-ce9fda334345,04-09-2021,0,18,False,COVAXIN,0,0,44.0,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,590176,South Delhi
+c42792ae-8852-4a5e-9906-7e9c71fe979a,04-09-2021,296,18,True,COVISHIELD,179,117,,Mahinder Kumar Jain Marg Gautam Nagar New Delhi Delhi 110049,Not Applicable,590504,South Delhi
+8ec0000c-aaea-49f7-bfbf-007d5db94cf1,04-09-2021,1,18,True,COVISHIELD,0,1,,SHEIKH SARAI,Not Applicable,779816,South Delhi
+1b081a50-302e-4dda-81dc-a427a068f41a,04-09-2021,0,18,True,COVAXIN,0,0,,33-B-7-9Kishangarh Vasant Kunj New Delhi,Not Applicable,628131,South Delhi
+367df7f5-a868-4698-99cf-c600d50e0f58,04-09-2021,47,18,False,COVISHIELD,47,0,44.0,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,614799,South Delhi
+347c3dc0-af3f-4181-8605-2b3f57d68620,05-09-2021,74,18,False,COVISHIELD,45,29,44.0,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,614799,South Delhi
+0b74b070-75e1-4192-b5f3-e7752c295aac,04-09-2021,0,18,True,COVISHIELD,0,0,,SARVODAYA COED VIDHALYA MASJID MOTH,Not Applicable,714533,South Delhi
+66574a73-3cff-491b-a32e-3608a163694a,04-09-2021,579,45,False,COVISHIELD,294,285,,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+01b41461-274d-4a92-9be4-c990e4db88c1,04-09-2021,560,18,False,COVISHIELD,293,267,44.0,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+1ffde7eb-a3e7-44ce-b3ac-d24a14635119,06-09-2021,593,45,False,COVISHIELD,298,295,,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+34bffa99-9339-4828-a5b2-3afb6d338f9c,06-09-2021,583,18,False,COVISHIELD,296,287,44.0,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+e1285863-12e7-4c68-9cd5-9e9991c92d4a,07-09-2021,587,18,False,COVISHIELD,299,288,44.0,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+625dc297-bc05-47f0-a561-c418bfdb34f4,07-09-2021,597,45,False,COVISHIELD,300,297,,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+5086ee79-ba19-4b04-aff3-fd3122c74010,08-09-2021,599,45,False,COVISHIELD,300,299,,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+56030ac1-3e0a-4392-b0de-7be53f4491ce,08-09-2021,590,18,False,COVISHIELD,298,292,44.0,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+286d807a-a9fa-4d28-bd5b-cfae71311f87,09-09-2021,600,45,False,COVISHIELD,300,300,,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+7885d11c-1279-4158-b297-4b1bb92fbe7e,09-09-2021,593,18,False,COVISHIELD,300,293,44.0,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+cd7595b6-5ac0-4222-af25-b7ae3e3c4b4d,04-09-2021,0,18,True,COVISHIELD,0,0,,0PPOSITE BUS STAND NEAR BHOOL BHULIYA MEHRAULI,Not Applicable,593217,South Delhi
+71cb6452-7124-41b6-a356-4cf23458d905,04-09-2021,0,18,True,COVISHIELD,0,0,,Rajkiya Varishtha M. Bal Vidyalaya Aya Nagar 110047,Not Applicable,694028,South Delhi
+3a22926f-4ed2-42bd-906e-ee7d20da8865,04-09-2021,0,18,True,COVISHIELD,0,0,,PAMPOSH ENCLAVE GREATER KAILASH -1,Not Applicable,738591,South Delhi
+388402e0-2f50-4c2c-9ed9-ef7b8202c31f,04-09-2021,0,18,True,COVISHIELD,0,0,,GARGI SCHOOL SAFDARJUNG ENCLAVE 110016,Not Applicable,694980,South Delhi
+39c7a976-5352-4b67-a2c4-96c6dcbd08f0,04-09-2021,0,18,True,COVAXIN,0,0,,MCW HAUZ KHAS NEAR MCD SCHOOL KALU SARAIHAUZ KHAS,Not Applicable,8171,South Delhi
+187eb021-d0fc-45dc-b934-21c40f0441f0,04-09-2021,0,18,True,COVISHIELD,0,0,,GARGI SCHOOL SAFDARJUNG ENCLAVE 110016,Not Applicable,694982,South Delhi
+193b7177-18cd-4a73-b012-21dd73eddf6d,04-09-2021,64,18,True,COVISHIELD,35,29,,100 FEET ROAD CHATTARPUR ENCLAVE CHATTARPUR,Not Applicable,614530,South Delhi
+345f214a-f2d8-41a9-b152-8b8d135bdb3a,04-09-2021,0,18,True,COVISHIELD,0,0,,Dr.Ambedkar Nagar Sector 5 Dakshinpuri New Delhi Delhi 110062,Not Applicable,701574,South Delhi
+60d75cf9-e799-4cdc-a648-4549bd8707d4,04-09-2021,0,18,True,COVISHIELD,0,0,,SDMC SCHOOL MAIDAN GARHI,Not Applicable,697811,South Delhi
+79bfce4a-bc47-4e4c-a8b6-b3d8decf3e64,04-09-2021,0,18,True,COVISHIELD,0,0,,GAUTAM NAGAR NEAR FATHER ANGEL SCHOOL,Not Applicable,593390,South Delhi
+4d569583-b7a4-4f1d-89e2-0711046cc04f,04-09-2021,0,18,True,COVISHIELD,0,0,,IPP VIII Near Bus Stand Sanjay Colony Bhattimines New Delhi - 110074,Not Applicable,8093,South Delhi
+8dd54d9d-97fb-4cc5-a9b6-6cdc4829a45e,04-09-2021,0,18,False,COVAXIN,0,0,44.0,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,580732,South Delhi
+8e4e3f55-e979-4a5f-8307-f54a802690cc,04-09-2021,6,18,False,COVAXIN,0,6,44.0,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,590178,South Delhi
+8009db07-c126-41d6-b844-ffc134f65600,04-09-2021,0,18,True,COVISHIELD,0,0,,Village FatehpurBeri New Delhi-110074,Not Applicable,614794,South Delhi
+9690602e-ab3c-46df-99a5-aafa0521166f,04-09-2021,0,18,True,COVAXIN,0,0,,Sarvodaya Kanya Vidyalaya Chirag Delhi Swami Nagar,Not Applicable,694017,South Delhi
+8548afbf-7e69-4da5-bcf3-16edf7218ef8,04-09-2021,38,18,False,COVISHIELD,37,1,44.0,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,614804,South Delhi
+dea30b13-d250-4959-b579-39c1bfebb25d,05-09-2021,54,18,False,COVISHIELD,40,14,44.0,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,614804,South Delhi
+ff5a6c64-1b9b-43a5-99d2-89481963b4e2,04-09-2021,119,18,True,COVAXIN,76,43,,N-88 Panchasheel Park New Delhi - 110017,Not Applicable,713124,South Delhi
+8ddfb713-ae62-4d54-b9f3-7931262286b3,06-09-2021,75,18,True,COVAXIN,45,30,,N-88 Panchasheel Park New Delhi - 110017,Not Applicable,713124,South Delhi
+29e4524c-e853-4727-b650-d3ba172c121b,07-09-2021,95,18,True,COVAXIN,50,45,,N-88 Panchasheel Park New Delhi - 110017,Not Applicable,713124,South Delhi
+6f5f1725-4391-40f3-8aa1-119f1096b0a2,08-09-2021,89,18,True,COVAXIN,45,44,,N-88 Panchasheel Park New Delhi - 110017,Not Applicable,713124,South Delhi
+872b4f2d-684b-4c5e-ac2c-a3b26fd422ce,09-09-2021,97,18,True,COVAXIN,49,48,,N-88 Panchasheel Park New Delhi - 110017,Not Applicable,713124,South Delhi
+9853d57b-dce2-464a-a646-c30b724d004c,04-09-2021,0,18,True,COVISHIELD,0,0,,BACHAN PRASAD SCHOOL DEOLI TIGRI 110080,Not Applicable,694966,South Delhi
+e4e65074-4514-45ed-88ef-50edd0603749,04-09-2021,25,18,True,COVISHIELD,0,25,,Malviya Nagar New Delhi Delhi 110017,Not Applicable,701559,South Delhi
+67e22e13-be60-4c35-885a-8856aa50e129,04-09-2021,0,18,True,COVISHIELD,0,0,,GBSSS NO2 MEHRAULI,Not Applicable,709303,South Delhi
+b18d9239-9d09-4af3-b416-7a71feaac635,04-09-2021,0,18,True,COVISHIELD,0,0,,PAMPOSH ENCLAVE GREATER KAILASH -1,Not Applicable,709266,South Delhi
+fb754ff4-08f8-4604-b301-59e7782cbc4c,04-09-2021,0,18,True,COVISHIELD,0,0,,SHEIKH SARAI,Not Applicable,779805,South Delhi
+d2db9b67-0ef6-4437-98f8-4f01348954fb,04-09-2021,0,18,True,COVISHIELD,0,0,,D1 Ilbs Vasant Kunj Marg Delhi,Not Applicable,576215,South Delhi
+ccc92d6e-6d9d-4020-8823-a73a3d9c7df0,04-09-2021,0,18,True,COVISHIELD,0,0,,Malviya Nagar New Delhi Delhi 110017,Not Applicable,701557,South Delhi
+94db4747-bed2-4c3d-b9c5-e36cab3aa212,04-09-2021,0,18,True,COVISHIELD,0,0,,Rajkiya Varishtha M. Bal Vidyalaya Aya Nagar 110047,Not Applicable,694034,South Delhi
+c71b952e-4e00-4c37-a54b-79d9bd35b5b4,04-09-2021,0,18,True,COVAXIN,0,0,,Sarvodaya Kanya Vidyalaya Chirag Delhi Swami Nagar,Not Applicable,694026,South Delhi
+ded242c2-228b-4ee5-855a-fe5ad1b2f996,04-09-2021,0,18,True,COVISHIELD,0,0,,819CHATTARPUR MAIN ROAD NEW DELHI,Not Applicable,675319,South Delhi
+b4e8284d-f0b1-416f-88f7-d133d7eca779,04-09-2021,645,18,True,COVISHIELD,369,276,,C 6-8 SAFDARJUNG DEVELOPMENT AREA NEW DELHI,Not Applicable,712809,South Delhi
+a03ca94a-427e-405e-9997-a13b89969b62,04-09-2021,0,18,True,COVISHIELD,0,0,,Rajkiya Varishtha M. Bal Vidyalaya Aya Nagar,Not Applicable,694012,South Delhi
+72b7dc4d-2743-4bb1-bd6b-5a7dcfbbb1d6,04-09-2021,0,18,True,COVISHIELD,0,0,,Govt Girls Sr. Sec. School Chhattarpur 110074,Not Applicable,693924,South Delhi
+c9fb18b9-de0f-4d22-8a62-e892587f57bd,04-09-2021,0,18,True,COVAXIN,0,0,,CGHS Dispensary Building Sec-4 Pushp Vihar New Delhi,Not Applicable,8076,South Delhi
+027f6abb-836a-4479-856b-4f8f08409a73,04-09-2021,23,18,True,COVISHIELD,5,18,,507 DEOLI BANDH ROAD NEW DELHI,Not Applicable,614851,South Delhi
+a3f08967-f0b6-4896-849e-f6d016532010,04-09-2021,0,18,True,COVISHIELD,0,0,,GBSSS NO2 MEHRAULI,Not Applicable,770355,South Delhi
+a247cecf-c7f1-493d-b57d-8bcedee3f4d0,04-09-2021,0,18,True,COVAXIN,0,0,,M And CW Center Deoli Tigri D BlockTigriBehind Hanuman MandirTigriNew Delhi -62,Not Applicable,8115,South Delhi
+225437aa-7981-41a3-8f53-2cf4c8455306,04-09-2021,28,18,True,COVISHIELD,0,28,,Malviya Nagar New Delhi Delhi 110017,Not Applicable,701560,South Delhi
+44884382-cbfa-4350-a9f2-65fbeb61605a,04-09-2021,0,18,True,COVAXIN,0,0,,M B Road  Sec-1 Pushp ViharNew Delhi,Not Applicable,8077,South Delhi
+2c9a0185-0f56-4790-b887-9bb796a8a239,04-09-2021,0,18,True,COVISHIELD,0,0,,Govt Girls Sr. Sec. School Chhattarpur 110074,Not Applicable,693936,South Delhi
+0c2aff46-8890-4330-900c-e6c3c8d34901,04-09-2021,243,18,True,COVISHIELD,123,120,,N 110 Block N Panchsheel Park,Not Applicable,685373,South Delhi
+fcd669eb-3714-471e-92b9-293fdd42408b,05-09-2021,338,18,True,COVISHIELD,132,206,,N 110 Block N Panchsheel Park,Not Applicable,685373,South Delhi
+14df01dc-fddf-40f2-b2d6-162a000e3a59,06-09-2021,491,18,True,COVISHIELD,149,342,,N 110 Block N Panchsheel Park,Not Applicable,685373,South Delhi
+dd542be0-19e8-46c0-8572-09062dec03c9,07-09-2021,487,18,True,COVISHIELD,149,338,,N 110 Block N Panchsheel Park,Not Applicable,685373,South Delhi
+26edfc34-f958-431e-9ae4-411149fa12b3,08-09-2021,497,18,True,COVISHIELD,149,348,,N 110 Block N Panchsheel Park,Not Applicable,685373,South Delhi
+49fe2ab7-2756-4f48-8984-3b82295524b7,09-09-2021,497,18,True,COVISHIELD,150,347,,N 110 Block N Panchsheel Park,Not Applicable,685373,South Delhi
+639bd494-2ed7-42d3-8bd0-a21c49f84a20,04-09-2021,5,18,False,COVAXIN,0,5,44.0,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,580734,South Delhi
+4ff3f014-83de-4b3e-9972-c468579f3f13,04-09-2021,0,18,True,COVISHIELD,0,0,,Govt Girls Sr. Sec. School Chhattarpur 110074,Not Applicable,693933,South Delhi
+76d6804e-31d2-49c7-b0d8-4852213ae0b7,04-09-2021,2,18,True,COVISHIELD,0,2,,SHEIKH SARAI,Not Applicable,779822,South Delhi
+c3889abe-6629-442e-ad35-c0d1e5764490,04-09-2021,0,18,True,COVISHIELD,0,0,,Dr.Ambedkar Nagar Sector 5 Dakshinpuri New Delhi Delhi 110062,Not Applicable,702276,South Delhi
+97a0c681-b093-444f-8a47-b987537de29e,04-09-2021,1,45,False,COVAXIN,0,1,,Mandir MargPress Enclave Road Saket New Delhi 110017,Not Applicable,560730,South Delhi
+3fd1aca3-a3c0-4880-96cc-4fc7cfab9a16,10-09-2021,499,18,True,COVISHIELD,150,349,,N 110 Block N Panchsheel Park,Not Applicable,685375,South Delhi
+98cdedae-eb61-49ca-8a8a-80667301c1a4,10-09-2021,141,18,True,COVISHIELD,70,71,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+011a2df5-767f-4192-8900-1c0e614d48a4,10-09-2021,382,18,True,COVISHIELD,198,184,,Balharas Le Cure Hospital IGNOU Main Rd Freedom Fighter Colony Block B Neb Sarai Sainik FarmNew Delhi,Not Applicable,837097,South Delhi
+a25dd1c3-1309-4824-811e-2210d07abe9e,10-09-2021,186,18,True,COVISHIELD,93,93,,Press Enclave Marg Phase-2Sheikh Sarai,Not Applicable,560710,South Delhi
+5467ed9d-87a7-4729-9d9c-53b4ae8dfb27,04-09-2021,23,18,True,COVISHIELD,0,23,,DAKSHINPURI SEC V,Not Applicable,709282,South Delhi
+75df7b08-3125-49d1-bd7d-1640a835fb25,10-09-2021,393,18,True,COVAXIN,197,196,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+da12cb53-a975-4a12-88dc-0a5a7943b04e,10-09-2021,389,18,True,COVISHIELD,200,189,,Geetanjali FC-29 5 Near Malviya Nagar Metro Station New Delhi 110017,Not Applicable,580948,South Delhi
+01b41461-274d-4a92-9be4-c990e4db88c1,04-09-2021,561,18,False,COVISHIELD,293,268,44.0,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+77184ab7-3f62-4564-8c0f-a7f4c1fa0417,10-09-2021,600,45,False,COVISHIELD,300,300,,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+f1d7fece-0635-44d1-9516-695dd7c0f061,10-09-2021,588,18,False,COVISHIELD,299,289,44.0,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+68f32bea-6e76-4852-8933-5a30fff30cbf,10-09-2021,136,18,True,COVAXIN,68,68,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+94570a9a-2265-48a5-822d-c84cfb8f6551,10-09-2021,180,18,True,COVISHIELD,98,82,,Hope Oncology Clinic A-22 Hauz Khas Near Hauz Khas Market South Delhi New Delhi,Not Applicable,615529,South Delhi
+2a6ac860-687b-4c9b-aec7-2e9b27ec82f0,10-09-2021,100,18,True,COVAXIN,50,50,,N-88 Panchasheel Park New Delhi - 110017,Not Applicable,713124,South Delhi
+e4e65074-4514-45ed-88ef-50edd0603749,04-09-2021,26,18,True,COVISHIELD,0,26,,Malviya Nagar New Delhi Delhi 110017,Not Applicable,701559,South Delhi
+ccc92d6e-6d9d-4020-8823-a73a3d9c7df0,04-09-2021,1,18,True,COVISHIELD,0,1,,Malviya Nagar New Delhi Delhi 110017,Not Applicable,701557,South Delhi
+225437aa-7981-41a3-8f53-2cf4c8455306,04-09-2021,29,18,True,COVISHIELD,0,29,,Malviya Nagar New Delhi Delhi 110017,Not Applicable,701560,South Delhi
+ec497739-500b-4a79-b679-c7dc483d872e,10-09-2021,497,18,True,COVISHIELD,150,347,,N 110 Block N Panchsheel Park,Not Applicable,685373,South Delhi
+03470b9c-c86c-43c1-9692-549fd43b125b,11-09-2021,493,18,True,COVISHIELD,150,343,,N 110 Block N Panchsheel Park,Not Applicable,685373,South Delhi
+472e0c55-bc4c-4cab-b774-1ff1881b6bcf,11-09-2021,596,45,False,COVISHIELD,300,296,,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+16b41465-6579-41ff-8d5d-01f16c704486,11-09-2021,587,18,False,COVISHIELD,297,290,44.0,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+4eda6eb9-7e5b-4aa9-a473-2affe0264543,11-09-2021,186,18,True,COVAXIN,98,88,,N-88 Panchasheel Park New Delhi - 110017,Not Applicable,713124,South Delhi
+6a05ce4c-f4c7-4ace-a6f5-f9ebc0b970a4,11-09-2021,134,18,True,COVISHIELD,75,59,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+caab331a-4e26-467d-a8f8-6515d6318bb3,12-09-2021,495,18,True,COVISHIELD,148,347,,N 110 Block N Panchsheel Park,Not Applicable,685373,South Delhi
+3326829e-e393-4015-8f25-9230d7e40dc7,12-09-2021,141,18,True,COVISHIELD,74,67,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+baed9dc2-8609-4cd1-99cf-4b640d3e11a9,13-09-2021,141,18,True,COVISHIELD,73,68,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+2d9ccc8f-60a1-49aa-991c-85af2e040e45,13-09-2021,596,18,False,COVISHIELD,300,296,44.0,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+5a16043f-2165-4317-a8ea-b64b69ea196c,13-09-2021,598,45,False,COVISHIELD,300,298,,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+bec0c117-9a2f-450a-872e-1f053d88023f,14-09-2021,590,18,False,COVISHIELD,300,290,44.0,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+4e362214-3563-444a-b81b-b911f0a8aab9,14-09-2021,596,45,False,COVISHIELD,299,297,,A7 KAILASH COLONY 1ST FLOOR MAIN ROAD NEXT TO METRO STATION NEW DELHI,Not Applicable,733279,South Delhi
+ce97496b-a04a-4085-9a88-81bce82f5132,14-09-2021,144,18,True,COVISHIELD,76,68,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+adda8868-6d77-4d67-9fd7-482aeb11c3ac,15-09-2021,145,18,True,COVISHIELD,75,70,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+f2abe4bb-3250-4a78-b351-a7aece8c3385,15-09-2021,2,18,True,COVAXIN,1,1,,E 60-62 GK I,Not Applicable,580920,South Delhi
+c3c2cf71-3620-4ed3-af9b-9919bb2c5f84,16-09-2021,148,18,True,COVISHIELD,75,73,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+8714b31f-a1ae-4c86-9124-3b6332fdd341,17-09-2021,142,18,True,COVISHIELD,75,67,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
+e2cf6ea8-b4a0-4f07-ba31-31394365e48b,18-09-2021,144,18,True,COVISHIELD,75,69,,GREATER KAILASH 1,Not Applicable,614941,South Delhi
