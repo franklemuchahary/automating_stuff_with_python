@@ -13,5 +13,7 @@ from tedious and repetitive tasks so that I can spend more time doing useful stu
 - [Fetching Latest Fantasy Premier League Data](fantasy_permier_league_data):
   Python script for automatically fetching [Fantasy Premier League](https://www.premierleague.com/news/2173986) Data every gameweek (including my own team information, chips available, transfers available etc) and storing it in a SQLite DB. Libraries: `requests`, `pandas`, `json`, `asyncio`, `sqlalchemy`
 - [Strava Weather Update in Description](strava-weather-update):
-  Python script for automatically updating weather conditions for [Strava Activities](https://www.strava.com/dashboard) in the activity descripton field. Strava API is used for fetching and updating the strava activities and Open Weather API is used for fetching the latest weather conditions. Libraries: `requests`, `logging`, `datetime`
+  Python script for automatically updating weather conditions for [Strava Activities](https://www.strava.com/dashboard) in the activity descripton field. Strava API is used for fetching and updating the strava activities and Open Weather API is used for fetching the latest weather conditions. Libraries: `requests`, `logging`, `datetime`, `traceback`
+- [SQL DDL Generator](sql-ddl-generator):
+  Python script for automatically generating DDL queries from google sheet table provided as input. This can be used for quickly creating sample tables in google sheet and generating DDL queries for use in toold like [DB Fiddle](https://dbfiddle.uk/) or [SQL Fiddle](http://sqlfiddle.com/) Libraries: `openpyxl`, `pandas`, `requests`, `collections`
 
