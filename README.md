@@ -15,5 +15,5 @@ from tedious and repetitive tasks so that I can spend more time doing useful stu
 - [Strava Weather Update in Description](strava-weather-update):
   Python script for automatically updating weather conditions for [Strava Activities](https://www.strava.com/dashboard) in the activity descripton field. Strava API is used for fetching and updating the strava activities and Open Weather API is used for fetching the latest weather conditions. Libraries: `requests`, `logging`, `datetime`, `traceback`
 - [SQL DDL Generator](sql-ddl-generator):
-  Python script for automatically generating DDL queries from google sheet table provided as input. This can be used for quickly creating sample tables in google sheet and generating DDL queries for use in toold like [DB Fiddle](https://dbfiddle.uk/) or [SQL Fiddle](http://sqlfiddle.com/) Libraries: `openpyxl`, `pandas`, `requests`, `collections`
+  Python script for automatically generating DDL queries from google sheet table provided as input. This can be used for quickly creating sample tables in google sheet and generating DDL queries for use in tools like [DB Fiddle](https://dbfiddle.uk/) or [SQL Fiddle](http://sqlfiddle.com/) Libraries: `openpyxl`, `pandas`, `requests`, `collections`
 
