@@ -6,7 +6,7 @@ This jupyter notebook helps in converting google sheet tables into DDL queries f
 *How to Use:*
 - Create a google sheet.
 - Convert it into open view access for everyone.
-- Copy the google sheet link (Example: https://docs.google.com/spreadsheets/d/1u9xez7cCm2zTK65cn/edit#gid=0) and set the varibale `GOOGLE_SHEET_LINK` to this value.
+- Copy the google sheet link (Example: https://docs.google.com/spreadsheets/d/1u9xez7cCm2zTK65cn1WrtmKDK2FuqfckQ44PxGXfmLc/edit#gid=0) and set the varibale `GOOGLE_SHEET_LINK` to this value.
 - Run the code.
 
 <br><br>
